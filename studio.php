@@ -5,9 +5,9 @@ require("include/topscripts.php")
 
 <!DOCTYPE html>
 <html>
-<?php
-require("include/head.php")
-?>
+        <?php
+        require("include/head.php")
+        ?>  
 <body>
     <div class="container">
         <?php
@@ -15,7 +15,7 @@ require("include/head.php")
         ?>
         
         <section>
-            <h1>About</h1>
+            <h1>Studio</h1>
         
         </section>
 
