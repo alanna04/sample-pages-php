@@ -15,8 +15,9 @@
 </head>
 <body>
     <div class="container">
-        
-        
+        <?php
+        include("include/header.php")    
+        ?>
         <section>
             <h1>Home</h1>
         
