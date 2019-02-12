@@ -15,14 +15,7 @@
 </head>
 <body>
     <div class="container">
-        <header>
-            <nav>
-            <a href="/">Home</a>
-            <a href="about.php">About</a>
-            <a href="gallery.php">Gallery</a>
-            <a href="contact.php">Contact</a>
-            </nav>
-        </header>
+        
         
         <section>
             <h1>Home</h1>
