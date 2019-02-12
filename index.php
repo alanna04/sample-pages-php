@@ -17,7 +17,7 @@
     <div class="container">
         <header>
             <nav>
-            <a href="home.php">Home</a>
+            <a href="/">Home</a>
             <a href="about.php">About</a>
             <a href="gallery.php">Gallery</a>
             <a href="contact.php">Contact</a>
